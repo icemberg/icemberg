@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiraam S</h1>
-<h3 align="center">I am passionate in Full Stack Web Development, Machine Learning and cybersecurity</h3>
+<h3 align="center">I am passionate in Full Stack Web Development, Machine Learning and Cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icemberg&label=Profile%20views&color=0e75b6&style=flat" alt="icemberg" /> </p>
 
