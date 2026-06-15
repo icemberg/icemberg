@@ -14,7 +14,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://vercel.app/?username=icemberg" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=icemberg" alt="GitHub Trophies" />
   </a>
 </p>
 
