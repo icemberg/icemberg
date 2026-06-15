@@ -9,14 +9,15 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=icemberg&theme=dracula&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=icemberg" alt="GitHub Trophies" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=icemberg&theme=dracula&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://vercel.app/?username=icemberg" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 
